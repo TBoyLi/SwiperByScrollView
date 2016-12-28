@@ -1,21 +1,12 @@
-MIT License
+# ScrollView简单实现滚动广告页React Native Demo
 
-Copyright (c) 2016 redli
+> 这是一个使用ScrollView组件简单实现滚动广告页Demo。这个Demo能让你从零开始学习React Native，并逐渐掌握React Native。它包括了一个项目从零到项目完成的整个过程。
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+**项目运行**
+```javascript
+$ git@github.com:TBoyLi/SwiperByScrollView.git
+$ cd SwiperByScrollView
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+$ npm install
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+$ react-native run-ios 或 react-native run-android 或 Xcode Android Studio 发开相应的项目运行
