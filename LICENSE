@@ -6,7 +6,5 @@
 ```javascript
 $ git@github.com:TBoyLi/SwiperByScrollView.git
 $ cd SwiperByScrollView
-
 $ npm install
-
 $ react-native run-ios 或 react-native run-android 或 Xcode Android Studio 发开相应的项目运行
