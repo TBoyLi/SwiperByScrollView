@@ -6,7 +6,8 @@ import {
     ScrollView,
     Image,
     Dimensions,
-	Text
+	Text,
+	Platform
 } from 'react-native';
 
 var {height, width} = Dimensions.get('window');
@@ -157,7 +158,7 @@ var App = React.createClass({
 
 const styles = StyleSheet.create({
     container: {
-        marginTop: 25
+        marginTop: (Platform.OS === 'ios') ? 25 : 0
     },
 	pageViewStyle:{
         width:width,
