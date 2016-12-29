@@ -5,6 +5,7 @@
 > 经测试Android和IOS都流畅运行，支持拖拽。
 
 **截图**
+
 ![](https://github.com/TBoyLi/SwiperByScrollView/screenshot.png)
 
 **项目运行**
