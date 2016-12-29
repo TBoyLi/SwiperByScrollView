@@ -6,7 +6,7 @@
 
 **截图**
 
-![](https://github.com/TBoyLi/SwiperByScrollView/screenshot.png)
+![](https://github.com/TBoyLi/SwiperByScrollView/raw/master/screenshot.png)
 
 **项目运行**
 ```javascript
